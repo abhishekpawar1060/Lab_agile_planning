@@ -1,15 +1,15 @@
 ---
-name: User Story
-about: Here We create User Story
-title: ''
-labels: ''
-assignees: ''
+name: Create WhatApp Clone
+about:  As a User I want to be Update option on my System so that I use new feature of app
+title: 'WhatApp Clone'
+labels: 'Devlopment'
+assignees: 'Abhishek Pawar'
 
 ---
 
-1. **As a** [role]
-2. **I need** [function]
-3. **So that** [benefit]
+1. **As a** [USER]
+2. **I need** [Upadate option]
+3. **So that** [For use new feature of app]
 4.
 5. ### Details and Assumptions
 6. * [document what you know]
@@ -18,5 +18,5 @@ assignees: ''
 9.
 10. ```gherkin
 11. Given [some context]
-12. When [certain action is taken]
+12. When [c]
 13. Then [the outcome of action is observed]
